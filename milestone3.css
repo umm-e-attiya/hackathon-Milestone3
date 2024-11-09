@@ -39,3 +39,20 @@ button:hover{
       width: 300px;
       font-size: 20px;
 }
+
+
+@media screen and (min-width: 600px) {
+    input{
+        width:30%;
+        border-radius: 8%;
+        margin-left: 20px;
+
+}
+button{
+    width: 80%;
+    height: 50%;
+   
+}
+
+    
+  }
